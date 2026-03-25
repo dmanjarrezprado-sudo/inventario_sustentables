@@ -1,0 +1,16 @@
+partes, precio
+memoria_ram, $10 
+disco_duro, $15
+tarjeta_madre, $15
+monitor, $15 
+fuente_de_poder $10
+cables, $5
+gabinete, $20
+teclado, $5
+telefonos_moviles $20 
+consolas_de_video_juegos $30
+impresoras $5
+laptops $20
+smart_Tv $15
+
+
